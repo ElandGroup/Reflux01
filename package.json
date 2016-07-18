@@ -1,0 +1,47 @@
+{
+  "name": "helloreflux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile-react.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElandGroup/HelloReflux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElandGroup/HelloReflux/issues"
+  },
+  "homepage": "https://github.com/ElandGroup/HelloReflux#readme",
+  "dependencies": {
+    "babel-eslint": "^6.1.2",
+    "browser-sync": "^2.13.0",
+    "cssnano": "^3.7.3",
+    "del": "^2.2.1",
+    "eslint": "^3.1.0",
+    "eslint-plugin-react": "^5.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-htmlmin": "^2.0.0",
+    "gulp-if": "^2.0.1",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-newer": "^1.2.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-react": "^3.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.4",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "reflux": "^0.4.1",
+    "zepto": "^1.2.0"
+  }
+}
